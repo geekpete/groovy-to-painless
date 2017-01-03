@@ -1,5 +1,7 @@
 # groovy-to-painless
-A way to collect groovy to painless examples in Elasticsearch usage
+A way to collect groovy to painless examples in Elasticsearch usage.
+
+Get started, see: [cheatsheet.MD](https://github.com/geekpete/groovy-to-painless/blob/master/cheatsheet.MD)
 
 ## Caveat
 
